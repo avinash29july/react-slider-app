@@ -9,7 +9,7 @@
     "787.3ad1db2c.chunk.js.map": "/react-slider-app/static/js/787.3ad1db2c.chunk.js.map"
   },
   "entrypoints": [
-    "/react-slider-app/static/css/main.2ab01ac0.css",
-    "/react-slider-app/static/js/main.0dcfb415.js"
+    "react-slider-app/static/css/main.2ab01ac0.css",
+    "react-slider-app/static/js/main.0dcfb415.js"
   ]
 }
