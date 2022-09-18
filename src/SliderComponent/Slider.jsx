@@ -8,17 +8,17 @@ const Slider = () => {
     {
       id: 1,
       alt: "slider-1",
-      src: process.env.PUBLIC_URL + "images/img-1.jpg",
+      src: process.env.PUBLIC_URL + "Images/img-1.jpg",
     },
     {
       id: 2,
       alt: "slider-2",
-      src: process.env.PUBLIC_URL + "images/img-2.jpg",
+      src: process.env.PUBLIC_URL + "Images/img-2.jpg",
     },
     {
       id: 3,
       alt: "slider-3",
-      src: process.env.PUBLIC_URL + "images/img-3.jpg",
+      src: process.env.PUBLIC_URL + "Images/img-3.jpg",
     },
   ];
 
